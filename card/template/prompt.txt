@@ -1,0 +1,1 @@
+Using the provided *.md file templates, create a new set of documents based on the text of the draft law found in bill.txt. Place the files in a new folder (fo.bill/card/new.project/).
