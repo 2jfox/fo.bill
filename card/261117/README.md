@@ -23,8 +23,7 @@
 
 ## Посилання
 
-Автор: [AV19](https://forum.online/u/0x35E6fB5Dd65ea163ED7847c6F46bC917771383a)
-
+Автор: [AV19](https://forum.online/u/0x35E6fB5Dd65ea163ED7847c6F46bC917771383a)<br>
 До голосування: [Forum.Online](https://forum.online/feed/post/post_1794874364539_alu9yo)
 
 [До головного меню](../README.md) (дивитись усі законопроєкти)

@@ -44,8 +44,7 @@
 - Заповнити плейсхолдери `[ПІБ]`, назву комітету та кількість аркушів у поданні.
 
 ## Посилання
-Автор: [Юрій Ярмак](https://forum.online/u/0x698e42c338ea04673dd45fa8799103134a3f8c52), [Вадим Трофимов](https://forum.online/u/0x0BAB3816B7d57B76ac452E769fcE6c27Ee736ab9)
-
+Автор: [Юрій Ярмак](https://forum.online/u/0x698e42c338ea04673dd45fa8799103134a3f8c52), [Вадим Трофимов](https://forum.online/u/0x0BAB3816B7d57B76ac452E769fcE6c27Ee736ab9)<br>
 До голосування: [Forum.Online](https://forum.online/feed/post/post_1792414448509_qsut72)
 
 [До головного меню](../README.md) (дивитись всі законопроекти)

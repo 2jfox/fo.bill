@@ -34,8 +34,7 @@
 
 ## Посилання
 
-Автор: [Divergent](https://forum.online/u/0x41D63f9b8Fb18E9055932B7dc087006eaCB88CA5)
-
+Автор: [Divergent](https://forum.online/u/0x41D63f9b8Fb18E9055932B7dc087006eaCB88CA5)<br>
 До голосування: [Forum.Online](https://forum.online/feed/post/post_1793772447734_8l2mux)
 
 [До головного меню](../README.md) (дивитись всі законопроєкти)

@@ -35,8 +35,7 @@
 
 ## Посилання
 
-Автор: [Іван Підгурський](https://forum.online/u/0xE3Fc66C07793CdF4965DC5834Db6B29A93472058)
-
+Автор: [Іван Підгурський](https://forum.online/u/0xE3Fc66C07793CdF4965DC5834Db6B29A93472058)<br>
 До голосування: [Forum.Online](https://forum.online/feed/post/post_1792659621189_uhkyob)
 
 [До головного меню](../README.md) (дивитись всі законопроєкти)

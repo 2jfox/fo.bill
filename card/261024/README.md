@@ -33,8 +33,7 @@
 
 ## Посилання
 
-Автор: [Кіріл Бережний](https://forum.online/u/0xEF16991193F27C20eC7FCE00a6B7b43984b4a7ad)
-
+Автор: [Кіріл Бережний](https://forum.online/u/0xEF16991193F27C20eC7FCE00a6B7b43984b4a7ad)<br>
 До голосування: [Forum.Online](https://forum.online/feed/post/post_1792874764160_p830gd)
 
 [До головного меню](../README.md) (дивитись всі законопроєкти)
