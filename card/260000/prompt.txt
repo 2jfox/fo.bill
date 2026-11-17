@@ -1,4 +1,5 @@
-#define BILL
+//{YYMMDD}
+//#define BILL
 
 Using the provided 
 #ifdef BILL
@@ -7,8 +8,8 @@ card\260000\bill\*.md
 card\260000\manifest\*.md
 #endif
 file templates, create a new set of documents based on the text of the draft law found in draft.txt. 
-Place the files in a new folder ('card\{YYMMDD}\' add -N[1,2,3...] if exist).
+Place the files in a new folder ('card\261109\' add -N[1,2,3...] if exist).
 Add a link to the new set of documents to the card\README.md 
 
-Автор: [Михаил Беркут](https://forum.online/u/0x79f431fedcc1c224bfb25102047eb05ac4efa378)
-До голосування: [Forum.Online](https://forum.online/feed/post/post_1794927627512_ie2nqr)
+Автор: [Рамиль Сафаров](https://forum.online/u/0x5f255f203ee72b47def138785af751a4322d1535)<br>
+До голосування: [Forum.Online](https://forum.online/feed/post/post_1794221339470_1j9q4s)

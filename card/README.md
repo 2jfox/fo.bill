@@ -58,4 +58,16 @@
 </details>
 <br>
 <details><summary>Маніфести (потребують глибокого доопрацювання)</summary>
+<details><summary>Про незалежний аудит приватизаційних угод</summary>
+
+## [Маніфест №261105](./261105/README.md) "Щодо незалежного аудиту приватизаційних угод і відшкодування збитків державі"<br>
+Автор: [Незалежный Здобувач](https://forum.online/u/0x9C9b1C439c3191F915033fbAf26d793A3Bea0998)<br>
+До голосування: [Forum.Online](https://forum.online/feed/post/post_1793867433358_vbgcxc)
+</details>
+<details><summary>Про глибоку децентралізацію в унітарній Україні</summary>
+
+## [Маніфест №261109](./261109/README.md) "Щодо глибокої децентралізації в унітарній Україні"<br>
+Автор: [Рамиль Сафаров](https://forum.online/u/0x5f255f203ee72b47def138785af751a4322d1535)<br>
+До голосування: [Forum.Online](https://forum.online/feed/post/post_1794221339470_1j9q4s)
+</details>
 </details>
