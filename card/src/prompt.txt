@@ -1,0 +1,16 @@
+#define DATE {YYMMDD}
+//#define DATE {261109}
+//#define BILL
+
+Use templates
+#ifdef BILL
+'fo.bill\card\260000\bill\*.md'
+#else
+'fo.bill\card\260000\manifest\*.md'
+#endif
+create a new set of documents based on 'draft.txt'. 
+Place to 'fo.bill\card\{DATE}\' (add -N[1,2,3...] if exist)
+Update 'fo.bill\card\README.md'
+
+Автор: [Рамиль Сафаров](https://forum.online/u/0x5f255f203ee72b47def138785af751a4322d1535)<br>
+До голосування: [Forum.Online](https://forum.online/feed/post/post_1794221339470_1j9q4s)

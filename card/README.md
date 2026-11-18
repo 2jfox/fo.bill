@@ -1,11 +1,11 @@
-<details open><summary>Законопроєкти</summary>
+<details open><summary><b>Законопроєкти</b></summary>
 
 <details><summary>Про посилення відповідальності за порушення правил дотримання тиші</summary>
 
 ## [Законопроєкт №261012](./261012/README.md) "Про посилення відповідальності за порушення правил дотримання тиші"
 
-Автор: [Юрій Ярмак](https://forum.online/u/0x698e42c338ea04673dd45fa8799103134a3f8c52)<br>
-До голосування: [Forum.Online](https://forum.online/feed/post/post_1791795705750_uj2hjn)
+>Автор: [Юрій Ярмак](https://forum.online/u/0x698e42c338ea04673dd45fa8799103134a3f8c52)<br>
+>До голосування: [Forum.Online](https://forum.online/feed/post/post_1791795705750_uj2hjn)
 </details>
 <details><summary>Про зареєстроване партнерство</summary>
 
@@ -57,17 +57,36 @@
 </details>
 </details>
 <br>
-<details><summary>Маніфести (потребують глибокого доопрацювання)</summary>
-<details><summary>Про незалежний аудит приватизаційних угод</summary>
+<details>
+    <summary><b>Маніфести (потребують глибокого доопрацювання)</b></summary>
 
-## [Маніфест №261105](./261105/README.md) "Щодо незалежного аудиту приватизаційних угод і відшкодування збитків державі"<br>
-Автор: [Незалежный Здобувач](https://forum.online/u/0x9C9b1C439c3191F915033fbAf26d793A3Bea0998)<br>
-До голосування: [Forum.Online](https://forum.online/feed/post/post_1793867433358_vbgcxc)
+>   <details><summary>Про незалежний аудит приватизаційних угод</summary>
+>
+>   * [Маніфест №261105](./261105/README.md) "Щодо незалежного аудиту приватизаційних угод і відшкодування збитків державі"<br>
+>   Автор: [Незалежный Здобувач](https://forum.online/u/0x9C9b1C439c3191F915033fbAf26d793A3Bea0998)<br>
+>   До голосування: [Forum.Online](https://forum.online/feed/post/post_1793867433358_vbgcxc)
+>   </details>
+>   <details><summary>Про глибоку децентралізацію в унітарній Україні</summary>
+>
+>   * [Маніфест №261109](./261109/README.md) "Щодо глибокої децентралізації в унітарній Україні"<br>
+>   Автор: [Рамиль Сафаров](https://forum.online/u/0x5f255f203ee72b47def138785af751a4322d1535)<br>
+>   До голосування: [Forum.Online](https://forum.online/feed/post/post_1794221339470_1j9q4s)
+>   </details>
 </details>
-<details><summary>Про глибоку децентралізацію в унітарній Україні</summary>
 
-## [Маніфест №261109](./261109/README.md) "Щодо глибокої децентралізації в унітарній Україні"<br>
-Автор: [Рамиль Сафаров](https://forum.online/u/0x5f255f203ee72b47def138785af751a4322d1535)<br>
-До голосування: [Forum.Online](https://forum.online/feed/post/post_1794221339470_1j9q4s)
-</details>
+<details>
+  <summary><b>Головний розділ</b></summary>
+
+  > * [Вступ](#вступ)
+  > <details>
+  >   <summary>Підрозділ 1</summary>
+  >
+  >   * [Деталь 1.1](#деталь-11)
+  >   * [Деталь 1.2](#деталь-12)
+  > </details>
+  > <details>
+  >   <summary>Підрозділ 2</summary>
+  >
+  >   * [Деталь 2.1](#деталь-21)
+  > </details>
 </details>
