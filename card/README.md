@@ -81,4 +81,11 @@
 >* Автор: [Рамиль Сафаров](https://forum.online/u/0x5f255f203ee72b47def138785af751a4322d1535)<br>
 >* До голосування: [Forum.Online](https://forum.online/feed/post/post_1794221339470_1j9q4s)
 ></details>
+><details><summary><a href="./261119/README.md">№261119</a> Про систему добору, навчання та підзвітності державних службовців</summary>
+>
+>>Пропонує поєднати відкритий добір кадрів, практичну управлінську освіту та підзвітність посадовців.<br>
+>>Наголошує на правових запобіжниках для медичних критеріїв, рейтингування та оприлюднення персональних даних.<br>
+>* Автори: [evgenii](https://forum.online/u/0x89Da037fE8532ffc5bDD09986D8886ACe2005e29), [Меркадер Рамон](https://forum.online/u/0x7588D9666774D040bDa8df5b105F5AcCd4C0f624), [Іван Підгурський](https://forum.online/u/0xE3Fc66C07793CdF4965DC5834Db6B29A93472058)<br>
+>* До голосування: [Forum.Online](https://forum.online/feed/post/post_1795093591515_5qhhhc)
+></details>
 </details>
